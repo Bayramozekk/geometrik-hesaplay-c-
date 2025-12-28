@@ -31,4 +31,5 @@ Bu proje, Python ile geliştirilmiş kapsamlı bir geometri aracıdır. Kullanı
 - ## 💻 How to Run | Nasıl Çalıştırılır?
 
 1. Clone the repository | Projeyi klonlayın:
-2. 
+https://github.com/Bayramozekk/geometrik-hesaplay-c-.git 
+
