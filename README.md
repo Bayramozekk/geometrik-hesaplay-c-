@@ -26,4 +26,9 @@ Bu proje, Python ile geliştirilmiş kapsamlı bir geometri aracıdır. Kullanı
 ## 🛠️ Tech Stack | Kullanılan Teknolojiler
 
 - **Language:** Python 3.10+
+
 - **Libraries:** `math` (for precise calculations)
+- ## 💻 How to Run | Nasıl Çalıştırılır?
+
+1. Clone the repository | Projeyi klonlayın:
+2. 
